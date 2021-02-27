@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/poczekaj-na-helen-2016.jpg", Poczekaj na Helen (2016)
+https://vodcdn2.internetowa.tv/storage-2/Wait-Till-Helen-Comes-2016-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/piksele-2015.jpg", Piksele (2015)
+https://vodcdn.internetowa.tv/storage-2/Pixels-2015-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/ouija-narodziny-zla-2016.jpg", Ouija: Narodziny zła (2016)
+https://vodcdn2.internetowa.tv/storage-2/Ouija-Origin-of-Evil-2016-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/monster-hunter-2020.jpg", Monster Hunter (2020)
+https://vodcdn.internetowa.tv/storage-2/Monster-Hunter-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/willys-wonderland-2021.jpg", Willy's Wonderland (2021)
+https://vodcdn.internetowa.tv/storage-2/Willys-Wonderland-2021-Lekotr-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/uczen-czarnoksieznika-2010.jpg", Uczeń czarnoksiężnika (2010)
+https://vodcdn.internetowa.tv/storage-2/The-Sorcerers-Apprentice-2010-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/dziecko-rosemary-1968.jpg", Dziecko Rosemary (1968)
+https://vodcdn.internetowa.tv/storage-2/Rosemary-s-Baby-1968-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/masakra-w-dniu-swietego-walentego-1967.jpg", Masakra w dniu świętego Walentego (1967)
+https://vodcdn2.internetowa.tv/storage-2/The-St-Valentine-s-Day-Massacre-1967-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/oblawa-1966.jpg", Obława (1966)
+https://vodcdn.internetowa.tv/storage-2/The-Chase-1966-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/listy-do-julii-2010.jpg", Listy do Julii (2010)
+https://vodcdn.internetowa.tv/storage-2/Listy-do-Julii-2010-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/zabojcze-cialo-2009.jpg", Zabójcze ciało (2009)
+https://vodcdn.internetowa.tv/storage-2/Zabojcze-cialo-Lektor-PL.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/milosc-do-kwadratu-2021.jpg", Miłość do kwadratu (2021)
 https://vodcdn.internetowa.tv/storage-2/Milosc-do-kwadratu-2021-Lektor-PL-1080p.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/narkoprzygody-hediego-i-cokemana-2021.jpg", Narkoprzygody Hediego i Cokemana (2021)
