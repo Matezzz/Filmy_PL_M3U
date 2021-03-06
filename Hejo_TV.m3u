@@ -1,5 +1,88 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/znaki-szczegolne-2020.jpg", Znaki szczególne (2020)
+https://vodcdn.internetowa.tv/storage-2/Identifying-Features-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/fanatyk-2019.jpg", Fanatyk (2019)
+https://vodcdn.internetowa.tv/storage-2/The-Fanatic-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/scooby-doo-the-sword-and-the-scoob-2021.jpg", Scooby-Doo! The Sword and the Scoob (2021)
+https://vodcdn.internetowa.tv/storage-2/Scooby-Doo-The-Sword-And-The-Scoob-2021-1080p-PL-DUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/deadfall-w-potrzasku-2012.jpg", Deadfall. W potrzasku (2012)
+https://vodcdn.internetowa.tv/storage-2/Deadfall-2012-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/droga-bez-powrotu-geneza-2021.jpg", Droga bez powrotu. Geneza (2021)
+https://vodcdn2.internetowa.tv/storage-2/Wrong-Turn-2021-PL-SUB-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/filofobia-2019.jpg", Filofobia (2019)
+https://vodcdn2.internetowa.tv/storage-2/Philophobia-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/obcy-pasazer-2020.jpg", Obcy pasażer (2020)
+https://vodcdn2.internetowa.tv/storage-2/Shadow-in-the-Cloud-2020-720p-Lekotr-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/zombie-ss-2009.jpg", Zombie SS (2009)
+https://vodcdn2.internetowa.tv/storage-2/Zombie-SS-2009-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/ostatnie-wielkie-dzielo-2020.jpg", Ostatnie wielkie dzieło (2020)
+https://vodcdn2.internetowa.tv/storage-2/The-Last-Vermeer-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/dni-mojej-chwaly-2020.jpg", Dni mojej chwały (2020)
+https://vodcdn2.internetowa.tv/storage-2/Mes-Jours-De-Gloire-2019-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/raz-jeszcze-raz-2020.jpg", Raz, jeszcze raz (2020)
+https://vodcdn2.internetowa.tv/storage-2/Raz-Jeszcze-Raz-2020-1080p-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/mr-dundee-powrot-2020.jpg", Mr. Dundee. Powrót (2020)
+https://vodcdn2.internetowa.tv/storage-2/Mr-Dundee-Powrot-The-Very-Excellent-Mr-Dundee-2020-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/tom-jerry-2021.jpg", Tom & Jerry (2021)
+https://vodcdn.internetowa.tv/storage-2/Tom-and-Jerry-2021-PL-SUB-1080p-PL-SUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/bitwa-o-ardeny-1965.jpg", Bitwa o Ardeny (1965)
+https://vodcdn2.internetowa.tv/storage-2/Battle-of-the-Bulge-1965-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/blekitny-max-1966.jpg", Błękitny Max (1966)
+https://vodcdn2.internetowa.tv/storage-2/The-Blue-Max-1966-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/interstellar-2014.jpg", Interstellar (2014)
+https://vodcdn.internetowa.tv/storage-2/Interstellar-2014-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/uwaga-anglicy-2018.jpg", Uwaga, anglicy! (2018)
+https://vodcdn2.internetowa.tv/storage-2/The-Con-Is-On-2018-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/followed-2018.jpg", Followed (2018)
+https://vodcdn.internetowa.tv/storage-2/Followed-2018-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/wszystko-dla-jacksona-2020.jpg", Wszystko dla Jacksona (2020)
+https://vodcdn2.internetowa.tv/storage-2/Anything-for-Jackson-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/kobieta-z-lodu-2017.jpg", Kobieta z lodu (2017)
+https://vodcdn2.internetowa.tv/storage-2/Baba-z-ledu-2017-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/dobry-rok-2006.jpg", Dobry rok (2006)
+https://vodcdn.internetowa.tv/storage-2/A-Good-Year-2006-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/sypiajac-z-innymi-2015.jpg", Sypiając z innymi (2015)
+https://vodcdn.internetowa.tv/storage-2/Sleeping-with-Other-People-2015-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/zakochany-do-szalenstwa-2021.jpg", Zakochany do szaleństwa (2021)
+https://vodcdn2.internetowa.tv/storage-2/Zakochany-do-szalenstwa-2021-Lekotr-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/megan-leavey-2017.jpg", Megan Leavey (2017)
+https://vodcdn2.internetowa.tv/storage-2/Megan-Leavey-2017-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/gdy-hitler-ukradl-rozowego-krolika-2019.jpg", Gdy Hitler ukradł różowego królika (2019)
+https://vodcdn2.internetowa.tv/storage-2/Als-Hitler-das-rosa-Kaninchen-stahl-2019-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/tozsamosc-strachu-2021.jpg", Tożsamość strachu (2021)
+https://vodcdn2.internetowa.tv/storage-2/Fear-of-Rain-2021-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/siedem-kregow-2019.jpg", Siedem kręgów (2019)
+https://vodcdn.internetowa.tv/storage-2/The-Deeper-You-Dig-2019-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/wielki-wyscig-1965.jpg", Wielki wyścig (1965)
+https://vodcdn2.internetowa.tv/storage-2/Wielki-Wyscig-The-Great-Race-1965-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/wodny-swiat-1995.jpg", Wodny świat (1995)
+https://vodcdn.internetowa.tv/storage-2/Wodny-swiat-Waterworld-1995-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/psy-1992.jpg", Psy (1992)
+https://vodcdn2.internetowa.tv/storage-2/PSY-1992-1080P-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/droga-do-domu-2020.jpg", Droga do domu (2020)
+https://vodcdn.internetowa.tv/storage-2/Cold-Brook-2018-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/nigdy-nie-jest-za-pozno-2020.jpg", Nigdy nie jest za późno (2020)
+https://vodcdn2.internetowa.tv/storage-2/Never-Too-Late-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/legenda-lasu-2018.jpg", Legenda lasu (2018)
+https://vodcdn2.internetowa.tv/storage-2/Big-Legend-2018-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/pusty-czlowiek-2020.jpg", Pusty Człowiek (2020)
+https://vodcdn2.internetowa.tv/storage-2/The-Empty-Man-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/bohater-miesiaca-2020.jpg", Bohater miesiąca (2020)
+https://vodcdn.internetowa.tv/storage-2/30-jours-max-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/niewierny-2019.jpg", Niewierny (2019)
+https://vodcdn2.internetowa.tv/storage-2/Infidel-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/shorta-2020.jpg", Shorta (2020)
+https://vodcdn.internetowa.tv/storage-2/Shorta-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/zlo-w-glebi-2020.jpg", Zło w głębi (2020)
+https://vodcdn2.internetowa.tv/storage-2/Sacrifice-2021-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/luis-i-obcy-2018.jpg", Luis i obcy (2018)
+https://vodcdn.internetowa.tv/storage-2/Luis-and-Aliens-2018-720p-PL-DUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/o-wszystko-zadbam-2020.jpg", O wszystko zadbam (2020)
+https://vodcdn2.internetowa.tv/storage-2/I-CARE-A-LOT-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/szklana-pulapka-40-2007.jpg", Szklana pułapka 4.0 (2007)
+https://vodcdn2.internetowa.tv/storage-2/Szklana-Pulapka-4-0-2007-1080p-Lektor-PL.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/poczekaj-na-helen-2016.jpg", Poczekaj na Helen (2016)
 https://vodcdn2.internetowa.tv/storage-2/Wait-Till-Helen-Comes-2016-Lektor-PL-1080p.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/piksele-2015.jpg", Piksele (2015)
