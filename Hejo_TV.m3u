@@ -1,5 +1,42 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/polnoc-polnocny-zachod-1959.jpg", Północ – północny zachód (1959)
+https://vodcdn.internetowa.tv/storage-2/North-by-Northwest-1959-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/zbaw-nas-ode-zlego-2014.jpg", Zbaw nas ode złego (2014)
+https://vodcdn.internetowa.tv/storage-2/Zbaw-Nas-Ode-Zlego-Deliver-Us-From-Evil-2014-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/snowden-2016.jpg", Snowden (2016)
+https://vodcdn.internetowa.tv/storage-2/Snowden-2016-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/gnomy-rozrabiaja-2017.jpg", Gnomy rozrabiają (2017)
+https://vodcdn.internetowa.tv/storage-2/Gnome-Alone-2017-1080p-PL-DUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/piaty-pasazer-2018.jpg", Piąty pasażer (2018)
+https://vodcdn2.internetowa.tv/storage-2/5th-Passenger-2018-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/fast-color-2019.jpg", Fast Color (2019)
+https://vodcdn.internetowa.tv/storage-2/Fast-Color-2018-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/niezapomniana-2020.jpg", Niezapomniana (2020)
+https://vodcdn.internetowa.tv/storage-2/Fatale-2020-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/moxie-2021.jpg", Moxie (2021)
+https://vodcdn2.internetowa.tv/storage-2/Moxie-2021-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/ksiaze-w-nowym-jorku-2-2021.jpg", Książę w Nowym Jorku 2 (2021)
+https://vodcdn2.internetowa.tv/storage-2/Coming-2-America-2021-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/cicha-impreza-2019.jpg", Cicha impreza (2019)
+https://vodcdn.internetowa.tv/storage-2/La-Fiesta-Silenciosa-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/sentinelle-2021.jpg", Sentinelle (2021)
+https://vodcdn.internetowa.tv/storage-2/Sentinelle-2021-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/tworzac-potwory-2019.jpg", Tworząc potwory (2019)
+https://vodcdn2.internetowa.tv/storage-2/Making-Monsters-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/narcyz-i-zlotousty-2020.jpg", Narcyz i Złotousty (2020)
+https://vodcdn2.internetowa.tv/storage-2/Narziss-Und-Goldmund-2020-PL-SUB-1080p-PL-SUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/ostatni-i-pierwsi-ludzie-2020.jpg", Ostatni i pierwsi ludzie (2020)
+https://vodcdn.internetowa.tv/storage-2/Last-and-First-Men-2020-Lektor-PL-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/monica-i-przyjaciele-2019.jpg", Monica i przyjaciele (2019)
+https://vodcdn.internetowa.tv/storage-2/Monica-and-Friends-Bonds-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/okno-na-morze-2020.jpg", Okno na morze (2020)
+https://vodcdn.internetowa.tv/storage-2/Una-ventana-al-mar-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/american-fighter-2021.jpg", American Fighter (2021)
+https://vodcdn.internetowa.tv/storage-2/American-Fighter-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/plac-destrukcji-2020.jpg", Plac destrukcji (2020)
+https://vodcdn2.internetowa.tv/storage-2/Concrete-Plans-2020-1080p-Lektor-PL.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/znaki-szczegolne-2020.jpg", Znaki szczególne (2020)
 https://vodcdn.internetowa.tv/storage-2/Identifying-Features-2020-Lektor-PL-1080p.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/fanatyk-2019.jpg", Fanatyk (2019)
