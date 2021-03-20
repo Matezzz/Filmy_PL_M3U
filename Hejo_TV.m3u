@@ -1,5 +1,61 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/72-godziny-2014.jpg", 72 godziny (2014)
+https://vodcdn2.internetowa.tv/storage-2/3-Days-to-Kill-2014-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/sila-przetrwania-2017.jpg", Siła przetrwania (2017)
+https://vodcdn.internetowa.tv/storage-2/6-Below-Miracle-on-the-Mountain-2017-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/aloha-2015.jpg", Aloha (2015)
+https://vodcdn2.internetowa.tv/storage-2/Aloha-2015-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/plan-ocalenia-2020.jpg", Plan ocalenia (2020)
+https://vodcdn.internetowa.tv/storage-2/Hard-Kill-2020-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/kite-2014.jpg", Kite (2014)
+https://vodcdn2.internetowa.tv/storage-2/Kite-2014-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/profesor-marston-i-wonder-women-2017.jpg", Profesor Marston i Wonder Women (2017)
+https://vodcdn2.internetowa.tv/storage-2/Professor-Marston-And-The-Wonder-Women-2017-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/mala-krolowa-2014.jpg", Mała królowa (2014)
+https://vodcdn.internetowa.tv/storage-2/The-Little-Queen-2014-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/blair-witch-2016.jpg", Blair Witch (2016)
+https://vodcdn.internetowa.tv/storage-2/Blair-Witch-2016-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/beyond-the-dream-2020.jpg", Beyond the Dream (2020)
+https://vodcdn.internetowa.tv/storage-2/Beyond-the-Dream-2019-PL-SUB-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/roza-bombaju-2019.jpg", Róża Bombaju (2019)
+https://vodcdn2.internetowa.tv/storage-2/Bombay-Rose-2019-720p-PL-DUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/skandal-w-hrabstwie-yuba-2021.jpg", Skandal w hrabstwie Yuba (2021)
+https://vodcdn.internetowa.tv/storage-2/breaking-news-in-yuba-county-2021-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/circus-kane-2017.jpg", Barany (2020)
+https://vodcdn2.internetowa.tv/storage-2/Rams-2020-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/urok-2020.jpg", Urok (2020)
+https://vodcdn.internetowa.tv/storage-2/Spell-2020-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/ciesnina-block-island-2020.jpg", Cieśnina Block Island (2020)
+https://vodcdn2.internetowa.tv/storage-2/The-Block-Island-Sound-2020-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/ciemniejsze-oblicze-elise-2017.jpg", Ciemniejsze oblicze Elise (2017)
+https://vodcdn.internetowa.tv/storage-2/Darker-Shades-Of-Elise-2017-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/viggo-i-gadajaca-ges-2019.jpg", Viggo i gadająca gęś (2019)
+https://vodcdn2.internetowa.tv/storage-2/Gooseboy-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/wnuki-dla-poczatkujacych-2020.jpg", Wnuki dla początkujących (2020)
+https://vodcdn2.internetowa.tv/storage-2/Granny-Nanny-2020-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/dzien-na-tak-2021.jpg", Dzień na tak (2021)
+https://vodcdn2.internetowa.tv/storage-2/Yes-Day-2021-1080p-PL-DUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/corki-rzeszy-2020.jpg", Córki Rzeszy (2020)
+https://vodcdn2.internetowa.tv/storage-2/Six-Minutes-to-Midnight-2020-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/poki-trwa-wojna-2019.jpg", Póki trwa wojna (2019)
+https://vodcdn2.internetowa.tv/storage-2/While-at-War-2019-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/zejscie-2005.jpg", Zejście (2005)
+https://vodcdn2.internetowa.tv/storage-2/Zejscie-The-Descent-2005-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/paper-lives-2021.jpg", Paper Lives (2021)
+https://vodcdn2.internetowa.tv/storage-2/Paper-Lives-2021-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/diablada-2020.jpg", Diablada (2020)
+https://vodcdn2.internetowa.tv/storage-2/Diablada-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/nowe-przygody-aladyna-2019.jpg", Nowe przygody Aladyna (2019)
+https://vodcdn2.internetowa.tv/storage-2/Adventures-Of-Aladdin-2019-Lektor-PL-1080p.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/head-count-2018.jpg", Head Count (2018)
+https://vodcdn2.internetowa.tv/storage-2/Head-Count-2018-1080p-PL-SUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/nie-sluchaj-ich-2020.jpg", Nie słuchaj ich (2020)
+https://vodcdn.internetowa.tv/storage-2/Dont-Listen-2020-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/pozdrowienia-z-rosji-1963.jpg", Pozdrowienia z Rosji (1963)
+https://vodcdn2.internetowa.tv/storage-2/Pozdrowienia-z-Rosji-1962-720p-Lektor-PL.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/polnoc-polnocny-zachod-1959.jpg", Północ – północny zachód (1959)
 https://vodcdn.internetowa.tv/storage-2/North-by-Northwest-1959-1080p-Lektor-PL.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/zbaw-nas-ode-zlego-2014.jpg", Zbaw nas ode złego (2014)
