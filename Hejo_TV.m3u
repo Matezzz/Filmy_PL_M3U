@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png", Powered by The Samsung Freak
 
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/breakdown-1997.jpg", Breakdown (1997)
+https://vodcdn.internetowa.tv/storage-2/Breakdown-1997-720p-Lektor-PL.mp4/index.m3u8?md5=TjDh5yZxx3tTYUMSxS-YxA&expires=1618006653
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/co-kryje-sie-pod-powierzchnia-2020.jpg", Co kryje się pod powierzchnią (2020)
+https://vodcdn2.internetowa.tv/storage-2/What-Lies-Below-2020-1080p-Lektor-PL.mp4/index.m3u8?md5=bgy85zXLdiRGJuTWX3ZRsQ&expires=1618006651
+
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/w-nurcie-zycia-2009.jpg", W nurcie życia (2009)
 https://vodcdn.internetowa.tv/storage-2/W-nurcie-zycia-Middle-Men-2009-1080p-Lektor-PL.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/kohtunik-2019.jpg", Kohtunik (2019)
